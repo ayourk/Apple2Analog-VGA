@@ -13,3 +13,4 @@
 [submodule "analog-hardware"]
 	path = analog-hardware
 	url = git@github.com:ayourk/Apple2VGA-analog-hardware.git
+	branch = main
