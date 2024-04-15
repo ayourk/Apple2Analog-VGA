@@ -12,4 +12,4 @@
 	url = https://github.com/V2RetroComputing/analog-preload
 [submodule "analog-hardware"]
 	path = analog-hardware
-	url = https://github.com/V2RetroComputing/analog-hardware
+	url = git@github.com:ayourk/Apple2VGA-analog-hardware.git
